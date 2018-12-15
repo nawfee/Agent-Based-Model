@@ -1,0 +1,10 @@
+<HTML>
+<TITLE>
+Agent based model
+</TITLE>
+<BODY>
+CODE FOR MODEL
+</BODY>
+</HTML>
+
+
